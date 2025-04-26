@@ -1,6 +1,6 @@
-# Han-Analytics
+# Xqq-Analytics
 
-· Han-Analytics 是一个简单的网络分析跟踪器和仪表板，托管在被称为赛博菩萨的 Cloudflare 上,无成本稳定运行,每天可达10万次免费统计。
+· Xqq-Analytics 是一个简单的网络分析跟踪器和仪表板，托管在被称为赛博菩萨的 Cloudflare 上,无成本稳定运行,每天可达10万次免费统计。
 
 · 域名、服务器、数据库 通通都不用! 托管在 Cloudflare Pages 上即可快速部署网站分析仪表板。
 
@@ -32,7 +32,7 @@ CLOUDFLARE_API_TOKEN = 你的 Cloudflare API token
 # 网站访问密码 (不设置即无需密码访问)
 CLOUDFLARE_WEBSITE_PWD = 
 
-# 可统计的白名单 格式：  域名,WebSite|域名,WebSite，多个站点使用|分隔 例如：api.vvhan.com,Hello-Han-Api|www.vvhan.com,Hello-HanHexoBlog  (不设置即允许任何统计)
+# 可统计的白名单 格式：  域名,WebSite|域名,WebSite，多个站点使用|分隔 
 CLOUDFLARE_WEBSITE_WHITELIST = 
 ```
 
